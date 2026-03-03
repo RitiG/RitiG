@@ -1,12 +1,16 @@
 # 👩‍💼 Ritika Gusain
 **`Quality Alchemist 🧪`**
 
-### 🚀 Automation Enthusiast | Lead QA Consultant | AI Testing Explorer
-
-Highly experienced Quality Assurance professional with over 11 years of expertise in building robust automation frameworks. Currently diving deep into the world of **AI Testing**, specifically focusing on **RAG (Retrieval-Augmented Generation)** and **LLM** validation.
-
-![Profile Views](https://komarev.com/ghpvc/?username=RitiG&color=blue&style=flat-square)
+### 🚀 Automation Enthusiast | Lead QA Consultant | AI Testing Explorer 
+ 
+Highly experienced Quality Assurance professional with over 10+ years of expertise in building robust automation frameworks. Currently diving deep into the world of **AI Testing**, specifically focusing on **RAG (Retrieval-Augmented Generation)** and **LLM** validation.
+ 
 ---
+
+### 🤝 Open For
+<img src="https://img.shields.io/badge/🤝_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RitiG&color=blue&style=flat-square) 
 
 ### 🛠️ Core Tech Stack & Tools
 
@@ -29,8 +33,8 @@ Highly experienced Quality Assurance professional with over 11 years of expertis
 ---
 
 ### 📊 GitHub Stats
-![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitiG&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=radical)
+![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitiG&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
