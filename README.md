@@ -34,7 +34,7 @@ Highly experienced Quality Assurance professional with over 10+ years of experti
 
 ### 📊 GitHub Stats
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitiG&show_icons=true&theme=dark&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=dark&cache_seconds=1800)](https://github-readme-stats-kappa-six.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=dark&count_private=true)
+[![Top Langs](https://my-github-stats-xi-teal.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=dark&cache_seconds=1800)](https://github-readme-stats-kappa-six.vercel.app/api/top-langs/?username=RitiG&layout=compact&theme=dark&count_private=true)
 
 ---
 
